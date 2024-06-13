@@ -1,0 +1,19 @@
+{
+	"geode": "3.0.0-alpha.2",
+	"gd": {
+		"win": "2.206",
+		"mac": "2.206",
+		"android": "2.206"
+	},
+	"version": "v1.0.0",
+	"id": "alphadev.no_glow_editor",
+	"name": "No Glow Editor",
+	"developer": "alphadev",
+	"description": "I never liked glow on objects tbh.",
+	"repository": "https://github.com/Alphyyyy/No-Glow-Editor",
+	"tags": [
+        "editor",
+        "enhancement",
+        "offline"
+    ]
+}
